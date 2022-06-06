@@ -1,0 +1,10 @@
+{
+    "config": {
+      "sort-packages": true
+    },
+    "minimum-stability":"stable",
+    "require": {
+        "google/apiclient": "^2.12",
+        "google/photos-library": "^1.7"
+    }
+}
